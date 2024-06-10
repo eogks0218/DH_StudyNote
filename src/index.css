@@ -1,8 +1,14 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nanum';
+}
+
 body {
-  margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Nanum',
+    "Varela Round", "Lato", "Ownglyph_jooreeletter-Rg", "Pacifico", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +16,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: 'Nanum';
+  src: url(../Font/Nanum/NanumSquareRoundR.woff) format(woff)
+}
+@font-face {
+  font-family: "Varela Round";
+  src: url(../Font/VarelaRound-Regular.ttf);
+}
+@font-face {
+  font-family: "Lato";
+  src: url(../Font/Lato/Lato-Bold.ttf);
+}
+@font-face {
+  font-family: "Ownglyph_jooreeletter-Rg";
+  src: url("../Font/온글잎\ 주리손편지.ttf");
+}
+@font-face {
+  font-family: "Pacifico";
+  src: url("../Font/Pacifico.ttf");
 }

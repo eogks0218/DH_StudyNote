@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1,
+        "userId" : "testId",
+        "userPassword" : "testPassword",
+        "userNickName" : "ADDKKD",
+        "userName" : "테스트",
+        "userEmail" : "testEmail@gmail.com",
+        "userAge" : "30",
+        "userImage" : "/image/user_icon.png"
+    }
+]
