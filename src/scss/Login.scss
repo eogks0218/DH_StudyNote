@@ -221,3 +221,20 @@ $border-radius: 12px;
     50% { transform: perspective(120px) rotateY(180deg); }
     100% { transform: perspective(120px) rotateY(180deg) rotateX(180deg); }
 }
+
+@media (max-width:750px){
+    .loginPage{
+        width: 350px;
+        &::before{
+            bottom: 30px;
+            right: 30px;
+            width: 40px;
+            height: 40px;
+        }
+        .finished{
+            svg{
+                width: 80px;
+            }
+        }
+    }
+}

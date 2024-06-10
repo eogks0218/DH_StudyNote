@@ -183,3 +183,11 @@
         }
     }
 }
+@media (max-width:750px){
+    .contentContainer{
+        > div{
+            width: 80% !important;
+            font-size: 1.8vh !important;
+        }
+    }
+}
