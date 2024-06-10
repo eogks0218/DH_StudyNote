@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eogks0218/DH_StudyNote.git/static/css/main.9aa7e8b4.css",
+    "main.js": "/eogks0218/DH_StudyNote.git/static/js/main.aaf06af7.js",
+    "static/js/453.02ea8e3a.chunk.js": "/eogks0218/DH_StudyNote.git/static/js/453.02ea8e3a.chunk.js",
+    "static/media/온글잎 주리손편지.ttf": "/eogks0218/DH_StudyNote.git/static/media/온글잎 주리손편지.7d1524dc66a7106a37fe.ttf",
+    "static/media/NanumSquareRoundR.ttf": "/eogks0218/DH_StudyNote.git/static/media/NanumSquareRoundR.f062cb52be3e9829834c.ttf",
+    "static/media/Lato-Bold.ttf": "/eogks0218/DH_StudyNote.git/static/media/Lato-Bold.bb154e8dcbf157f82e9b.ttf",
+    "static/media/NanumSquareRoundR.woff": "/eogks0218/DH_StudyNote.git/static/media/NanumSquareRoundR.a8fc5394f041ad651c5e.woff",
+    "static/media/VarelaRound-Regular.ttf": "/eogks0218/DH_StudyNote.git/static/media/VarelaRound-Regular.e67ccd4a92677fdf8719.ttf",
+    "static/media/DancingScript-VariableFont_wght.ttf": "/eogks0218/DH_StudyNote.git/static/media/DancingScript-VariableFont_wght.d02a1ee17643667e9808.ttf",
+    "static/media/Pacifico.ttf": "/eogks0218/DH_StudyNote.git/static/media/Pacifico.ebd4610cedb1798f1a49.ttf",
+    "index.html": "/eogks0218/DH_StudyNote.git/index.html",
+    "main.9aa7e8b4.css.map": "/eogks0218/DH_StudyNote.git/static/css/main.9aa7e8b4.css.map",
+    "main.aaf06af7.js.map": "/eogks0218/DH_StudyNote.git/static/js/main.aaf06af7.js.map",
+    "453.02ea8e3a.chunk.js.map": "/eogks0218/DH_StudyNote.git/static/js/453.02ea8e3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa7e8b4.css",
+    "static/js/main.aaf06af7.js"
+  ]
+}
