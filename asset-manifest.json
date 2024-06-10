@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DH_StudyNote/static/css/main.421942d8.css",
-    "main.js": "/DH_StudyNote/static/js/main.c9595bef.js",
+    "main.js": "/DH_StudyNote/static/js/main.99091937.js",
     "static/js/453.02ea8e3a.chunk.js": "/DH_StudyNote/static/js/453.02ea8e3a.chunk.js",
     "static/media/온글잎 주리손편지.ttf": "/DH_StudyNote/static/media/온글잎 주리손편지.7d1524dc66a7106a37fe.ttf",
     "static/media/NanumSquareRoundR.ttf": "/DH_StudyNote/static/media/NanumSquareRoundR.f062cb52be3e9829834c.ttf",
@@ -12,11 +12,11 @@
     "static/media/Pacifico.ttf": "/DH_StudyNote/static/media/Pacifico.ebd4610cedb1798f1a49.ttf",
     "index.html": "/DH_StudyNote/index.html",
     "main.421942d8.css.map": "/DH_StudyNote/static/css/main.421942d8.css.map",
-    "main.c9595bef.js.map": "/DH_StudyNote/static/js/main.c9595bef.js.map",
+    "main.99091937.js.map": "/DH_StudyNote/static/js/main.99091937.js.map",
     "453.02ea8e3a.chunk.js.map": "/DH_StudyNote/static/js/453.02ea8e3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.421942d8.css",
-    "static/js/main.c9595bef.js"
+    "static/js/main.99091937.js"
   ]
 }
