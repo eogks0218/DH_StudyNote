@@ -7,6 +7,6 @@
         "userName" : "테스트",
         "userEmail" : "testEmail@gmail.com",
         "userAge" : "30",
-        "userImage" : "/image/user_icon.png"
+        "userImage" : "https://eogks0218.github.io/DH_StudyNote/image/user_icon.png"
     }
 ]
